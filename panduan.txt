@@ -1,0 +1,3 @@
+cd Masukkan Nama Folder
+pnpm install
+pnpm run dev
